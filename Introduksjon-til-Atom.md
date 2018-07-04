@@ -1,8 +1,3 @@
----
-title: ‘Introduksjon til Atom ’
-author: ‘Øistein Søvik’
----
-
 ![Bilde av Atom sin logo](https://github.com/Oisov/wiki-LKK/blob/master/Atom/Atom_icon.svg)
 
 
