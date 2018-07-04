@@ -25,6 +25,8 @@ I korte trekk fungerer Git slik:
 
 - Endringene som brukeren gjorde i sin _branch_ er nå en del av _repo_-et.
 
+![Oversikt over arbeidsflyt med Git](https://github.com/Oisov/wiki-LKK/blob/master/Git_workflow.png)
+
 
 ## Komme i gang med Git
 
