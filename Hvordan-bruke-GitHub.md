@@ -25,7 +25,7 @@ I korte trekk fungerer Git slik:
 
 - Endringene som brukeren gjorde i sin _branch_ er nå en del av _repo_-et.
 
-![Oversikt over arbeidsflyt med Git](https://github.com/Oisov/wiki-LKK/blob/master/Git_workflow.png)
+![Oversikt over arbeidsflyt med Git](https://github.com/Oisov/wiki-LKK/blob/master/Git/Git_workflow.png)
 
 
 ## Komme i gang med Git
@@ -42,13 +42,13 @@ Gå til [Kodeklubbens GitHub](https://github.com/kodeklubben/oppgaver), og klikk
 `fork` oppe i høyre hjørne. Da får du laget din egen kopi som du finner igjen på
 din egen github-side.
 
-![Skjermdump som viser hvor `fork`-knappen er](https://github.com/Oisov/wiki-LKK/blob/master/create_fork.png)
+![Skjermdump som viser hvor `fork`-knappen er](https://github.com/Oisov/wiki-LKK/blob/master/Git/create_fork.png)
 
 Åpne GitHub Desktop og logg inn. Klikk `clone repository` og velg oppgave-repoet
 du kopierte fra Kodeklubben. Da laster du ned en kopi av denne til datamaskinen
 din. Det er denne vi skal jobbe i videre. Merk deg hvor denne blir lagret!
 
-![Skjermdump som viser hvordan `clone repository` ser ut](https://github.com/Oisov/wiki-LKK/blob/master/clone_repository.png)
+![Skjermdump som viser hvordan `clone repository` ser ut](https://github.com/Oisov/wiki-LKK/blob/master/Git/clone_repository.png)
 
 ## Arbeidsflyt
 
