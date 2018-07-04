@@ -1,10 +1,10 @@
-![Bilde av Atom sin logo](https://github.com/Oisov/wiki-LKK/blob/master/Atom/Atom_icon.svg)
 
 <p align="center">
 <a href="https://atom.io/">
-<img border="0" alt="W3Schools" src="https://github.com/Oisov/wiki-LKK/blob/master/Atom/Atom_icon.svg" width="300" height="300">
+<img border="0" alt="W3Schools" src="https://github.com/Oisov/wiki-LKK/blob/master/Atom/Atom_icon.svg" width="800" height="300">
 </a>
 </p>
+
 
 # Introduksjon
 
