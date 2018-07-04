@@ -36,7 +36,7 @@ I korte trekk fungerer Git slik:
 
 - [ ] Du trenger en [skrivebordsklient av Git](https://desktop.github.com/).
 
-- [ ] Du trenger en editor å jobbe i, for eksempel [Atom](guide_bruk_atom.md).
+- [ ] Du trenger en editor å jobbe i, for eksempel [Atom](https://atom.io/) (for en grunndigere innføring se [[introduksjon til Atom]]).
 
 Gå til [Kodeklubbens GitHub](https://github.com/kodeklubben/oppgaver), og klikk
 `fork` oppe i høyre hjørne. Da får du laget din egen kopi som du finner igjen på
