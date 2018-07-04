@@ -8,7 +8,7 @@ Fordelene strekker seg fra å være svært enkelt å skreddersy, til å tilby s�
 interaksjon med Git og ikke minst Markdown. Men kanskje enda bedre er Atom
 relativt enkelt å komme igang med, så hva venter du på? La oss sette igang!
 
-![Bilde av atom i bruk](atom-faktisk-jobbing.png)
+![Bilde av atom i bruk](https://github.com/Oisov/wiki-LKK/blob/master/Atom/atom-faktisk-jobbing.png)
 
 ## Installasjon
 
