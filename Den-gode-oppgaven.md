@@ -1,16 +1,15 @@
 # Den gode oppgaven
 
 Når du skriver en oppgave som skal legges ut på oppgavesidene må du følge denne
-malen. Slik blir utformingen på oppgavene mest mulig lik. På [denne
-siden](conventions.md) ser du hvordan vi ønsker at markdown-koden skal skrives.
+malen. Slik blir utformingen på oppgavene mest mulig lik. På siden [[Konvensjoner]] 
+ser du hvordan vi ønsker at markdown-koden skal skrives.
 
 Rammen for oppgaven er en YAML-header, altså informasjon _om_ oppgaven,
 oppgaveteksten med figurer, og en lærerveiledning som forklarer _hvordan_ en
 klasse kan jobbe med oppgaven.
 
 Når du har skrevet ferdig en oppgave med riktig formatering kan du sende den inn
-til oppgaverepoet på Github. Se oppskrift på det [her](guide_bruk_git.md).
-
+til oppgaverepoet på Github. Se [[Hvordan bruke GitHub]]
 ## YAML-header
 
 For å markere YAML-headeren bruker vi `---` før og etter. I YAML-headeren skal
@@ -102,8 +101,7 @@ møter motstand i oppgaven, så kan du skrive hvordan du løste det.
 
 Dessuten ønsker vi å informere om eventuelle kompetansemål i læreplanene som kan
 oppfylles ved hjelp av hver enkelt oppgave. Det skrives i lærerveiledningen. Se
-[her](guide_lage_lærerveiledning.md) for informasjon om hvordan du skriver en
-lærerveiledning.
+[[Hvordan skrive en lærerveiledning]] for mer informasjon.
 
 
 
