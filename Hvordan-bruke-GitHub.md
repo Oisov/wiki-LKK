@@ -1,8 +1,3 @@
----
-title: Hvordan bruke GitHub?
-author: Stein Olav Romslo og Øistein Søvik
----
-
 # Hvordan bruke GitHub?
 
 For å laste opp oppgaver til [kidsakoder.no](http://oppgaver.kidsakoder.no)
