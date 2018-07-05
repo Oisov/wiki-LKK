@@ -1,6 +1,5 @@
 <p align="center">
-<img border="0" alt="Dropbox logo" src="https://github.com/Oisov/wiki-LKK/blob/master/Dropbox/dropbox_logo_2.png"
- width="600">
+<img border="0" alt="Dropbox logo" src="https://github.com/Oisov/wiki-LKK/blob/master/Dropbox/dropbox_logo_2.png">
 </p>
 
 # Introduksjon
