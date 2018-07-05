@@ -4,6 +4,18 @@
 </a>
 </p>
 
+<p align="center">
+<a href="http://oppgaver.kidsakoder.no/">
+<img border="0" alt="LKK's logo med lenke til oppgavesammlingen" src="https://github.com/Oisov/wiki-LKK/blob/master/Startside/kodeklubben.png" >
+</a>
+</p>
+
+<p align="center">
+<a href="http://oppgaver.kidsakoder.no/">
+<img border="0" alt="LKK's logo med lenke til oppgavesammlingen" src="https://github.com/Oisov/wiki-LKK/blob/master/Startside/LKK_small_logo.png" >
+</a>
+</p>
+
 # Introduksjon 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit urna, malesuada eget risus ac, convallis tristique nisi. Mauris nec arcu felis. Mauris sagittis egestas eros, nec imperdiet risus maximus sit amet. Curabitur aliquam mi at dolor faucibus facilisis. Integer eleifend euismod dolor at porta. Vivamus sed risus et mauris euismod interdum at et eros. Praesent mattis vehicula neque vitae tincidunt. Fusce mattis arcu vel urna suscipit, sed pulvinar sem ornare. Vestibulum faucibus pellentesque gravida. Vivamus vel nunc ut mi cursus mollis et vitae tellus. Fusce mauris ligula, sodales quis mauris quis, finibus fermentum arcu. Cras iaculis lobortis libero eget tincidunt.
