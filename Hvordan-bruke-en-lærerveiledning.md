@@ -51,7 +51,7 @@ uttelling for høyere måloppnåelse dersom eleven utvikler egen kode basert på
 oppgaven, for eksempel ved å implementere variasjoner vi lister opp i
 lærerveiledningene.
 
-**Tips*
+**Tips**
 
 - Det vil ofte være hensiktsmessig å benytte seg av par-programmering (at elever
   jobber sammen to og to med en oppgave) i vurderingen også. For eksempel kan
