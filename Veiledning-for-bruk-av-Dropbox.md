@@ -7,7 +7,8 @@
 Rundt omkring i Norge finnes det enormt mange kreative, flinke og engasjerte
 lærere. Kanskje du er en av dem? LKK har en Dropbox-mappe med formål å lage et lavterskeltilbud for å dele ideer, oppgaver, bilder og kildekode. Lær kidsa koding ønsker å gjøre det så enkelt som mulig å dele erfaringer med hverandre.
 
-Videre ønsker vi at påbegynte opplegg kan videreutvikles og renskrives slik at de kan legges ut som oppgaver på kidsakoder.no. Det betyr at __din__ idé kan ende som undervisningsopplegg i alle landets kriker og kroker, selv om du ikke har tenkt den helt ferdig enda. For at oppgavene skal passe inn på [oppgavesidene](http://oppgaver.kidsakoder.no) må den skrives om til å følge oppgavemalen. Jo mer informasjon den inneholder ([se](##Fra-Dropbox-til-kidsakoder.no)), jo enklere er den jobben, og jo større er sjansen for at noen vil gjøre det. [Se](##-Fra-Dropbox-til-oppgave)
+Videre ønsker vi at påbegynte opplegg kan videreutvikles og renskrives slik at de kan legges ut som oppgaver på kidsakoder.no. Det betyr at __din__ idé kan ende som undervisningsopplegg i alle landets kriker og kroker, selv om du ikke har tenkt den helt ferdig enda. For at oppgavene skal passe inn på [oppgavesidene](http://oppgaver.kidsakoder.no) må den skrives om til å følge oppgavemalen. Jo mer informasjon den inneholder ([Se](#fra-dropbox-til-oppgave)), jo enklere er den jobben, og jo større er sjansen for at noen vil gjøre det. 
+
 ## Krav 
 
 For at det skal være enkelt å dele er det få krav til innholdet i det du deler. Hele poenget er å i størst mulig grad samle forskjellige ideer, oppgaver og undervisningsopplegg som allerede finnes og brukes.
