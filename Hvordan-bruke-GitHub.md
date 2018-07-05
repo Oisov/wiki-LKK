@@ -1,3 +1,6 @@
+
+![Github sin logo](https://github.com/Oisov/wiki-LKK/blob/master/Git/github-logo.png?raw=true)
+
 # Hvordan bruke GitHub?
 
 For å laste opp oppgaver til [kidsakoder.no](http://oppgaver.kidsakoder.no)
@@ -5,27 +8,41 @@ bruker vi GitHub, ofte bare kalt Git. Dette er programvare som gir flere brukere
 muligheten til å jobbe i et prosjekt samtidig, laste opp hver sine deler, og så
 sette alt sammen til ett stort prosjekt.
 
-I korte trekk fungerer Git slik:
+**Digresjon:** Tenk deg at kodeklubbens nettside er som en stor kake, som en rekke 
+flittige kokker jobber sammen om å lage. Dersom du bare begynner å endre direkte 
+på kaken kan det være du endrer noe de andre kokkene var så fornøyd med, eller 
+kanskje du ved ett uhell brukte pepper i stedet for kanel. For å hindre disse 
+uhellene bruker vi *versjonskontroll*. 
 
-- Det er en felles samling av filer som nettsiden bygges opp av (her:
+Veldig enkelt så fungerer det slik: først lager du ett speilbilde av kaken på internett og så lagrer du dette speilbildet lokalt på din maskin. Å arbeide på hele kaken samtidig blir fort veldig uoversiktlig, spesielt når en skal prøve å sette sammen igjen alle de ulike speilbildene til en superkake. Så derfor deler vi opp kaken i mindre kakestykker som du kan arbeide med individuelt. Så gjør du forbedringene du ønsker på dette lille kakestykke, kanskje du legger på mer melis eller masse sukkerspinn! Når du er fornøyd med forbedringene du har gjort på ett kakestykke kan du be kodeklubbens bakerene se over arbeidet. Sannsynligvis
+ber de deg om å gjøre mindre endringer først, men deretter vil ett lite stykke av kodeklubbens kake bli byttet ut med kakestykket du forbedret. 
+
+## Oppsumering
+
+Dette er ideèn bak Git og i praksis så fungerer det slik:
+
+Det er en felles samling av filer som nettsiden bygges opp av (her:
   [github.com/kodeklubben](https://github.com/kodeklubben/oppgaver)). Dette
   kalles et _repo_, kort for _repository_.
 
-- Hver bruker som ønsker å bidra lager en _fork_, sin egen kopi av _repo_-et.
+1. Hver bruker som ønsker å bidra lager en _fork_, sin egen kopi av _repo_-et.
 
-- En bruker lager en _branch_ i sin egen _fork_, for å gjøre endringer.
+2. Brukeren lagrer (kallt `clone` på engelsk) sin _fork_ lokalt på sin datamaskin. 
 
-- Brukeren kan _commit_-e endringer gjort i en _branch_, og _push_-e for å
-  gjøre den klar for deling med resten.
+2. En bruker lager en _branch_ i sin egen _fork_, for å gjøre endringer.
 
-- Brukeren legger inn en _pull request_ (ofte forkortet PR) og ber om at
-  endringene hun har gjort lokalt blir _merge_-t med _repo_-et.
+3. Brukeren kan _commit_-e endringer gjort i en _branch_, 
 
-- Alle kan se og kommentere på _PR_-en, før en administrator kan _merge_ filene.
+6. Når du er ferdig med å _commite_ kan du _push_-e endringene til internett for å  gjøre den klar for deling med resten.
 
-- Endringene som brukeren gjorde i sin _branch_ er nå en del av _repo_-et.
+6. Brukeren legger inn en _pull request_ (ofte forkortet PR) og ber om at
+   endringene hun har gjort lokalt blir _merge_-t med _repo_-et.
 
-![Oversikt over arbeidsflyt med Git](https://github.com/Oisov/wiki-LKK/blob/master/Git/Git_workflow.png)
+Alle kan se og kommentere på _PR_-en, før en administrator kan _merge_ filene.
+
+Endringene som brukeren gjorde i sin _branch_ er nå en del av _repo_-et.
+
+![Oversikt over arbeidsflyt med Git](https://github.com/Oisov/wiki-LKK/blob/master/Git/git_workflow.png)
 
 
 ## Komme i gang med Git
