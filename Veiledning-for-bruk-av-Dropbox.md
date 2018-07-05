@@ -23,6 +23,11 @@ Samle alt du ønsker å laste opp i en mappe på datamaskinen din. Hvis du vil d
 
 [Du kan laste opp mappen din her](https://www.dropbox.com/request/R81Bf7uofzjWctCygHlb)
 
+<p align="center">
+<a href="https://www.dropbox.com/request/R81Bf7uofzjWctCygHlb">
+<img border="0" alt="LKK's logo med lenke til oppgavesammlingen" src="https://github.com/Oisov/wiki-LKK/blob/master/Dropbox/dropbox-opplasting.png" >
+</a>
+</p>
 
 ## Fra Dropbox til oppgave
 
